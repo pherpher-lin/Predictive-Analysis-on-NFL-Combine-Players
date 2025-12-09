@@ -12,9 +12,6 @@ This project analyzes NFL Combine performance metrics for running backs to deter
   - Logistic Regression  
   - K-Means Clustering  
 
-All dataset preparation, model training, and result evaluation were performed through Python-based workflows.  
-*(Source: Project Report)*
-
 ## Key Results
 
 ### Linear Regression
